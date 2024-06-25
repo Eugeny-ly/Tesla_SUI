@@ -1,0 +1,194 @@
+%PDF-1.7
+
+1 0 obj
+  << /Length 2 0 R >>
+stream
+1.094238 0 0.199219 -0.126953 0.895020 1.183105 d1
+
+endstream
+endobj
+
+2 0 obj
+  51
+endobj
+
+3 0 obj
+  [ 1.094238 ]
+endobj
+
+4 0 obj
+  << /Length 5 0 R >>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (FigmaPDF)
+   /Ordering (FigmaPDF)
+   /Supplement 0
+>> def
+/CMapName /A-B-C def
+/CMapType 2 def
+1 begincodespacerange
+<00> <FF>
+endcodespacerange
+1 beginbfchar
+<00> <DBC0DFA1>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+endstream
+endobj
+
+5 0 obj
+  336
+endobj
+
+6 0 obj
+  << /Subtype /Type3
+     /CharProcs << /C0 1 0 R >>
+     /Encoding << /Type /Encoding
+                  /Differences [ 0 /C0 ]
+               >>
+     /Widths 3 0 R
+     /FontBBox [ 0.000000 0.000000 0.000000 0.000000 ]
+     /FontMatrix [ 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000 ]
+     /Type /Font
+     /ToUnicode 4 0 R
+     /FirstChar 0
+     /LastChar 0
+     /Resources << >>
+  >>
+endobj
+
+7 0 obj
+  << /Length 8 0 R
+     /Range [ 0.000000 1.000000 0.000000 1.000000 0.000000 1.000000 ]
+     /Domain [ 0.000000 1.000000 ]
+     /FunctionType 4
+  >>
+stream
+{  0.184314 exch 0.722727 exch 1.000000 exch dup 0.000000 gt { exch pop exch pop exch pop dup 0.000000 sub 0.434215 mul 0.184314 add exch dup 0.000000 sub 0.202046 mul 0.722727 add exch dup 0.000000 sub -0.148726 mul 1.000000 add exch } if dup 1.000000 gt { exch pop exch pop exch pop 0.618528 exch 0.924773 exch 0.851274 exch } if pop }
+endstream
+endobj
+
+8 0 obj
+  337
+endobj
+
+9 0 obj
+  << /Font << /F1 6 0 R >>
+     /Pattern << /P1 << /Matrix [ 0.000000 -23.999998 23.999998 0.000000 -28.037107 21.539062 ]
+                        /Shading << /Coords [ 0.000000 0.000000 1.000000 0.000000 ]
+                                    /ColorSpace /DeviceRGB
+                                    /Function 7 0 R
+                                    /Domain [ 0.000000 1.000000 ]
+                                    /ShadingType 2
+                                    /Extend [ true true ]
+                                 >>
+                        /PatternType 2
+                        /Type /Pattern
+                     >> >>
+  >>
+endobj
+
+10 0 obj
+  << /Length 11 0 R >>
+stream
+/DeviceRGB CS
+/DeviceRGB cs
+q
+1.000000 0.000000 -0.000000 1.000000 -4.037109 1.861328 cm
+/Pattern cs
+/P1 scn
+0.052734 0.677734 m
+h
+6.341797 -1.861328 m
+15.648438 -1.861328 l
+17.171875 -1.861328 17.953125 -1.060547 17.953125 0.589844 c
+17.953125 7.650391 l
+17.953125 9.105469 17.328125 9.906250 16.117188 10.062500 c
+16.117188 12.347656 l
+16.117188 15.902344 13.744141 17.816406 11.000000 17.816406 c
+8.246094 17.816406 5.882812 15.902344 5.882812 12.347656 c
+5.882812 10.062500 l
+4.662109 9.906250 4.037109 9.115234 4.037109 7.650391 c
+4.037109 0.589844 l
+4.037109 -1.060547 4.818359 -1.861328 6.341797 -1.861328 c
+h
+7.923828 12.494141 m
+7.923828 14.652344 9.310547 15.863281 11.000000 15.863281 c
+12.679688 15.863281 14.085938 14.652344 14.085938 12.494141 c
+14.076172 10.082031 l
+7.923828 10.082031 l
+7.923828 12.494141 l
+h
+f
+n
+Q
+q
+1.000000 0.000000 -0.000000 1.000000 -4.037109 1.861328 cm
+BT
+20.000000 0.000000 0.000000 20.000000 0.052734 0.677734 Tm
+/F1 1.000000 Tf
+[ (\000) ] TJ
+ET
+Q
+
+endstream
+endobj
+
+11 0 obj
+  990
+endobj
+
+12 0 obj
+  << /Annots []
+     /Type /Page
+     /MediaBox [ 0.000000 0.000000 13.916016 19.677734 ]
+     /Resources 9 0 R
+     /Contents 10 0 R
+     /Parent 13 0 R
+  >>
+endobj
+
+13 0 obj
+  << /Kids [ 12 0 R ]
+     /Count 1
+     /Type /Pages
+  >>
+endobj
+
+14 0 obj
+  << /Pages 13 0 R
+     /Type /Catalog
+  >>
+endobj
+
+xref
+0 15
+0000000000 65535 f
+0000000010 00000 n
+0000000117 00000 n
+0000000138 00000 n
+0000000169 00000 n
+0000000561 00000 n
+0000000583 00000 n
+0000000995 00000 n
+0000001516 00000 n
+0000001538 00000 n
+0000002193 00000 n
+0000003241 00000 n
+0000003264 00000 n
+0000003440 00000 n
+0000003516 00000 n
+trailer
+<< /ID [ (some) (id) ]
+   /Root 14 0 R
+   /Size 15
+>>
+startxref
+3577
+%%EOF
